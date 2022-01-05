@@ -12,7 +12,7 @@ Run the `decode.py` in:  [py2_version](./py2_version).
 
 ![image-20220105143553111](README.assets/image-20220105143553111.png)
 
-## Python3 version
+## Python3 version.
 
 If we want to use `python3`, we need to re-encode the `神奈川冲浪.jpg` to `50-SF.txt`, and then decode it using `python3`.
 
